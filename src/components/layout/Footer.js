@@ -3,7 +3,8 @@ import styled from 'styled-components'
 
 const FooterContainer = styled.div`
   width: 100%;
-  padding: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   text-align: center;
 `
 
